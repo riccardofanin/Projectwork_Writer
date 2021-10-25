@@ -1,0 +1,40 @@
+C:\Users\ricca\source\repos\Projectwork 1\Projectwork 1\bin\Debug\Projectwork 1.exe.config
+C:\Users\ricca\source\repos\Projectwork 1\Projectwork 1\bin\Debug\Projectwork 1.exe
+C:\Users\ricca\source\repos\Projectwork 1\Projectwork 1\bin\Debug\Projectwork 1.pdb
+C:\Users\ricca\source\repos\Projectwork 1\Projectwork 1\obj\Debug\Projectwork 1.csprojAssemblyReference.cache
+C:\Users\ricca\source\repos\Projectwork 1\Projectwork 1\obj\Debug\Projectwork_1.Writer.resources
+C:\Users\ricca\source\repos\Projectwork 1\Projectwork 1\obj\Debug\Projectwork_1.Properties.Resources.resources
+C:\Users\ricca\source\repos\Projectwork 1\Projectwork 1\obj\Debug\Projectwork 1.csproj.GenerateResource.cache
+C:\Users\ricca\source\repos\Projectwork 1\Projectwork 1\obj\Debug\Projectwork 1.csproj.CoreCompileInputs.cache
+C:\Users\ricca\source\repos\Projectwork 1\Projectwork 1\obj\Debug\Projectwork 1.exe
+C:\Users\ricca\source\repos\Projectwork 1\Projectwork 1\obj\Debug\Projectwork 1.pdb
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.1\Projectwork 1\bin\Debug\Projectwork 1.exe.config
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.1\Projectwork 1\bin\Debug\Projectwork 1.exe
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.1\Projectwork 1\bin\Debug\Projectwork 1.pdb
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.1\Projectwork 1\obj\Debug\Projectwork 1.csprojAssemblyReference.cache
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.1\Projectwork 1\obj\Debug\Projectwork_1.Writer.resources
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.1\Projectwork 1\obj\Debug\Projectwork_1.Properties.Resources.resources
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.1\Projectwork 1\obj\Debug\Projectwork 1.csproj.GenerateResource.cache
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.1\Projectwork 1\obj\Debug\Projectwork 1.csproj.CoreCompileInputs.cache
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.1\Projectwork 1\obj\Debug\Projectwork 1.exe
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.1\Projectwork 1\obj\Debug\Projectwork 1.pdb
+C:\Users\6189986\Desktop\C#\Projectwork v 0.0.2\Projectwork v 0.0.2\Projectwork 1\bin\Debug\Projectwork 1.exe.config
+C:\Users\6189986\Desktop\C#\Projectwork v 0.0.2\Projectwork v 0.0.2\Projectwork 1\bin\Debug\Projectwork 1.exe
+C:\Users\6189986\Desktop\C#\Projectwork v 0.0.2\Projectwork v 0.0.2\Projectwork 1\bin\Debug\Projectwork 1.pdb
+C:\Users\6189986\Desktop\C#\Projectwork v 0.0.2\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.csproj.AssemblyReference.cache
+C:\Users\6189986\Desktop\C#\Projectwork v 0.0.2\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork_1.Writer.resources
+C:\Users\6189986\Desktop\C#\Projectwork v 0.0.2\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork_1.Properties.Resources.resources
+C:\Users\6189986\Desktop\C#\Projectwork v 0.0.2\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.csproj.GenerateResource.cache
+C:\Users\6189986\Desktop\C#\Projectwork v 0.0.2\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.csproj.CoreCompileInputs.cache
+C:\Users\6189986\Desktop\C#\Projectwork v 0.0.2\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.exe
+C:\Users\6189986\Desktop\C#\Projectwork v 0.0.2\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.pdb
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\bin\Debug\Projectwork 1.exe.config
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\bin\Debug\Projectwork 1.exe
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\bin\Debug\Projectwork 1.pdb
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.csprojAssemblyReference.cache
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork_1.Writer.resources
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork_1.Properties.Resources.resources
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.csproj.GenerateResource.cache
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.csproj.CoreCompileInputs.cache
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.exe
+D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.pdb
