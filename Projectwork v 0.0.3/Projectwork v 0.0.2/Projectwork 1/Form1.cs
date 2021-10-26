@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
+using System.IO;
 
 namespace Projectwork_1
 {
@@ -106,13 +107,11 @@ namespace Projectwork_1
 
         private void Writer_Load(object sender, EventArgs e)
         {
-            /*
+            
             tabs.Appearance = TabAppearance.FlatButtons;
             tabs.ItemSize = new Size(0, 1);
             tabs.SizeMode = TabSizeMode.Fixed;
-            */
-
-
+            
         }
 
 
@@ -209,6 +208,36 @@ namespace Projectwork_1
         private void comboTema_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void aPRIToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog openFileDialog1 = new OpenFileDialog
+            {
+                InitialDirectory = @"D:\",
+                Title = "Browse Text Files",
+
+                CheckFileExists = true,
+                CheckPathExists = true,
+
+                DefaultExt = "txt",
+                Filter = "txt files (*.txt)|*.txt",
+                FilterIndex = 2,
+                RestoreDirectory = true,
+            };
+
+
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                string file = openFileDialog1.FileName;
+                try
+                {
+                    string text = File.ReadAllText(file);
+                    richtbMain.Text = text;
+                }
+                catch (IOException) { }
+
+            }
         }
     }
 }

@@ -236,14 +236,15 @@ namespace Projectwork_1
             // sALVAToolStripMenuItem
             // 
             this.sALVAToolStripMenuItem.Name = "sALVAToolStripMenuItem";
-            this.sALVAToolStripMenuItem.Size = new System.Drawing.Size(107, 22);
+            this.sALVAToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.sALVAToolStripMenuItem.Text = "SALVA";
             // 
             // aPRIToolStripMenuItem
             // 
             this.aPRIToolStripMenuItem.Name = "aPRIToolStripMenuItem";
-            this.aPRIToolStripMenuItem.Size = new System.Drawing.Size(107, 22);
+            this.aPRIToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.aPRIToolStripMenuItem.Text = "APRI";
+            this.aPRIToolStripMenuItem.Click += new System.EventHandler(this.aPRIToolStripMenuItem_Click);
             // 
             // sTILEToolStripMenuItem
             // 
@@ -257,14 +258,14 @@ namespace Projectwork_1
             // fONTToolStripMenuItem
             // 
             this.fONTToolStripMenuItem.Name = "fONTToolStripMenuItem";
-            this.fONTToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.fONTToolStripMenuItem.Size = new System.Drawing.Size(105, 22);
             this.fONTToolStripMenuItem.Text = "FONT";
             this.fONTToolStripMenuItem.Click += new System.EventHandler(this.fONTToolStripMenuItem_Click);
             // 
             // tEMAToolStripMenuItem
             // 
             this.tEMAToolStripMenuItem.Name = "tEMAToolStripMenuItem";
-            this.tEMAToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.tEMAToolStripMenuItem.Size = new System.Drawing.Size(105, 22);
             this.tEMAToolStripMenuItem.Text = "TEMA";
             // 
             // sTRUMENTIToolStripMenuItem

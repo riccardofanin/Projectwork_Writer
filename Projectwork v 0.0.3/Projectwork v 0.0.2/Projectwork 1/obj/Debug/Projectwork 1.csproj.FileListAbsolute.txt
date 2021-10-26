@@ -38,3 +38,13 @@ D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.3\Projectwork
 D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.csproj.CoreCompileInputs.cache
 D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.exe
 D:\MyDesktop\Varie\Scuola\AS 2021-22\Informatica\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.pdb
+C:\Users\6189986\Documents\GitHub\Projectwork_Writer\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\bin\Debug\Projectwork 1.exe.config
+C:\Users\6189986\Documents\GitHub\Projectwork_Writer\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\bin\Debug\Projectwork 1.exe
+C:\Users\6189986\Documents\GitHub\Projectwork_Writer\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\bin\Debug\Projectwork 1.pdb
+C:\Users\6189986\Documents\GitHub\Projectwork_Writer\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.csproj.AssemblyReference.cache
+C:\Users\6189986\Documents\GitHub\Projectwork_Writer\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork_1.Writer.resources
+C:\Users\6189986\Documents\GitHub\Projectwork_Writer\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork_1.Properties.Resources.resources
+C:\Users\6189986\Documents\GitHub\Projectwork_Writer\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.csproj.GenerateResource.cache
+C:\Users\6189986\Documents\GitHub\Projectwork_Writer\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.csproj.CoreCompileInputs.cache
+C:\Users\6189986\Documents\GitHub\Projectwork_Writer\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.exe
+C:\Users\6189986\Documents\GitHub\Projectwork_Writer\Projectwork v 0.0.3\Projectwork v 0.0.2\Projectwork 1\obj\Debug\Projectwork 1.pdb
