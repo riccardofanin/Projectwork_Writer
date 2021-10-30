@@ -1,0 +1,32 @@
+
+        private void fileSave_Click_1(object sender, EventArgs e)
+        {
+            SaveFileDialog saveFile = new SaveFileDialog();
+
+            saveFile.Title = "Salva file di testo";
+            saveFile.Filter = "RTF files|*.rtf";
+            saveFile.InitialDirectory = @"C:\";
+
+            if (saveFile.ShowDialog() == DialogResult.OK)
+            {
+                richtbMain.SaveFile(saveFile.FileName, RichTextBoxStreamType.RichText);
+
+                //File.WriteAllText(saveFile.FileName, RichTextBoxStreamType.RichText);
+            }
+        }
+
+        private void fileOpen_Click_1(object sender, EventArgs e)
+        {
+            OpenFileDialog openFile = new OpenFileDialog();
+
+            openFile.Title = "Apri file di testo";
+            openFile.Filter = "RTF files|*.rtf";
+            openFile.InitialDirectory = @"C:\";
+
+            if (openFile.ShowDialog() == DialogResult.OK)
+            {
+                richtbMain.LoadFile(openFile.FileName, RichTextBoxStreamType.RichText);
+
+                //richtbMain.Text = File.ReadAllText(openFile.FileName);
+            }
+        }
